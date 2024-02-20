@@ -1,0 +1,16 @@
+{
+  "locale": {
+    "en": "English",
+    "de": "Deustch"
+  },
+  "nav": {
+    "home": "Home",
+    "other": "Andere"
+  },
+  "home": {
+    "header": "HOME"
+  },
+  "other": {
+    "header": "ANDERE"
+  }
+}
